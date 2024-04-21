@@ -1,0 +1,11 @@
+{
+    "id": "pbcloud",
+    "version": "1.0.0",
+    "name": "Prime Backup on Cloud",
+    "description": "This plugin is used to send back up to cloud",
+    "author": "ChefMichelin",
+    "link": "https: //github.com/ChefMichelin/PBCloud",
+    "dependencies": {
+        "mcdreforged": ">=2.12.3"
+    }
+}
